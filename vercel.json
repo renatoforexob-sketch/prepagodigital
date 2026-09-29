@@ -1,0 +1,93 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/legacy/index.html"
+    },
+    {
+      "source": "/recarga-algar.html",
+      "destination": "/legacy/recarga-algar.html"
+    },
+    {
+      "source": "/recarga-claro.html",
+      "destination": "/legacy/recarga-claro.html"
+    },
+    {
+      "source": "/recarga-correios.html",
+      "destination": "/legacy/recarga-correios.html"
+    },
+    {
+      "source": "/recarga-surf.html",
+      "destination": "/legacy/recarga-surf.html"
+    },
+    {
+      "source": "/recarga-tim.html",
+      "destination": "/legacy/recarga-tim.html"
+    },
+    {
+      "source": "/recarga-vivo.html",
+      "destination": "/legacy/recarga-vivo.html"
+    },
+    {
+      "source": "/pagamento.html",
+      "destination": "/legacy/pagamento.html"
+    },
+    {
+      "source": "/app.html",
+      "destination": "/legacy/app.html"
+    },
+    {
+      "source": "/app1.html",
+      "destination": "/legacy/app1.html"
+    },
+    {
+      "source": "/app2.html",
+      "destination": "/legacy/app2.html"
+    },
+    {
+      "source": "/sobre.html",
+      "destination": "/sobre.html"
+    },
+    {
+      "source": "/como-funciona.html",
+      "destination": "/como-funciona.html"
+    },
+    {
+      "source": "/contato.html",
+      "destination": "/contato.html"
+    },
+    {
+      "source": "/operadoras.html",
+      "destination": "/operadoras.html"
+    },
+    {
+      "source": "/termos-de-uso.html",
+      "destination": "/termos-de-uso.html"
+    },
+    {
+      "source": "/politica-de-privacidade.html",
+      "destination": "/politica-de-privacidade.html"
+    },
+    {
+      "source": "/politica-de-cookies.html",
+      "destination": "/politica-de-cookies.html"
+    },
+    {
+      "source": "/politica-de-reembolso.html",
+      "destination": "/politica-de-reembolso.html"
+    },
+    {
+      "source": "/politica-de-bonus.html",
+      "destination": "/politica-de-bonus.html"
+    },
+    {
+      "source": "/seguranca.html",
+      "destination": "/seguranca.html"
+    }
+  ],
+  "functions": {
+    "api/*.js": {
+      "maxDuration": 30
+    }
+  }
+}
